@@ -1,0 +1,79 @@
+{
+  "Users" : {
+    "1" : {
+      "email" : "1",
+      "name" : "1",
+      "password" : "1"
+    },
+    "a" : {
+      "email" : "a",
+      "name" : "a",
+      "password" : "a"
+    },
+    "d" : {
+      "email" : "d@d.com",
+      "name" : "d",
+      "password" : "treska"
+    },
+    "dias" : {
+      "email" : "dias@.com",
+      "name" : "dias",
+      "password" : "8052"
+    },
+    "dias2" : {
+      "email" : "dias@dias.com",
+      "name" : "dias2",
+      "password" : "8789"
+    },
+    "dias3" : {
+      "email" : "dias@gim.com",
+      "name" : "dias3",
+      "password" : "1234"
+    },
+    "diase" : {
+      "email" : "dias@.com.mk",
+      "name" : "diase",
+      "password" : "8052222"
+    },
+    "g" : {
+      "email" : "g",
+      "name" : "g",
+      "password" : "g"
+    },
+    "presenter" : {
+      "email" : "p@mail.com",
+      "name" : "presenter",
+      "password" : "pp"
+    },
+    "s" : {
+      "email" : "s",
+      "name" : "s",
+      "password" : "s"
+    },
+    "t" : {
+      "email" : "t@t.com",
+      "name" : "t",
+      "password" : "123"
+    },
+    "usd" : {
+      "email" : "uds",
+      "name" : "usd",
+      "password" : "aaa"
+    },
+    "user" : {
+      "email" : "user",
+      "name" : "user",
+      "password" : "user"
+    },
+    "user1" : {
+      "email" : "user1",
+      "name" : "user1",
+      "password" : "user1"
+    },
+    "usernew" : {
+      "email" : "new@fire.com",
+      "name" : "usernew",
+      "password" : "123aa"
+    }
+  }
+}
