@@ -1,0 +1,2 @@
+Za uspesno izvrsuvanje na aplikacijata treba da se dozvolat security dozvoli i plus 
+za da uspesnoraboti treba manuelno da se dozvoli koristenje na lokacija. 
